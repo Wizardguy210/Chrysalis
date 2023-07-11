@@ -183,7 +183,7 @@ These are available all over the entire world, spread somewhat evenly, but posit
 -    wheat / barley / corn / oats
 -    hemp
 -    herbs / mushrooms / bark / roots / vines / berries
--    flint  / slate / granite / sandstone
+# -    flint  / slate / granite / sandstone
 -    fish / wild game / birds
 -    water
 
@@ -202,7 +202,7 @@ Each side will need what it requires to have shelter, warmth, weapons, rope, foo
 -    Ports
 -    Shops
 -    Religious Places
--    Control for Military Might
+# -    Control for Military Might
 -    Encampment
 -    Tower
 -    Fortress
